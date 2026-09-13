@@ -1,0 +1,8 @@
+ID,OrderDate,Client,EmailAddress,ItemName,ProductCategory,Units,PriceEach,Revenue
+ORD-1013,"Aug 13, 2026",milo fern,milo@example.com,Training,services,1,250,250
+ORD-1014,08/14/2026,nora glen,NORA@EXAMPLE.COM,Cable,accessories,4,10,40
+ORD-1015,2026-08-15,owen birch,owen@example.com,Annual Plan,software,1,"1,299.00","1,299.00"
+ORD-1016,2026-08-16,pia frost,pia@example.com,Adapter,,2,20,40
+ORD-1017,2026-08-17,quinn ash,quinn@example.com,Support Session,services,1,120,120
+ORD-1013,2026-08-13,Milo Fern,milo@example.com,Training,Services,1,260,260
+ORD-1018,2026-08-18,rose hill,rose@example.com,USB Hub,Accessories,1,$25.00,$25.00

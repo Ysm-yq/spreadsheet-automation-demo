@@ -1,0 +1,8 @@
+transaction_id,created_at,customer_name,customer_email,item,type,quantity,unit_price,amount
+ORD-1008,08/08/2026,grace moss,GRACE@EXAMPLE.COM,Workflow Setup,services,1,500,500
+ORD-1009,"Aug 09, 2026",hugo pike,hugo@example.com,Monthly Plan,software,2,49,98
+ORD-1010,2026-08-10,iris vale,iris@example.com,Desk Stand,Accessories,2,35,70
+ORD-1002,2026-08-02,Alice Green,alice@example.com,Setup Session,Services,2,150,300
+,2026-08-11,jay brook,jay@example.com,USB Hub,Accessories,1,25,25
+ORD-1011,2026-02-30,kai field,kai@example.com,Monthly Plan,Software,1,49,49
+ORD-1012,2026-08-12,lea stone,,Consulting,Services,2,100,180

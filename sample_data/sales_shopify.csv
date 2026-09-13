@@ -1,0 +1,9 @@
+Order ID,Date,Customer,Email,Product,Category,Qty,Price,Total
+ORD-1001,2026-08-01,john smith, JOHN@EXAMPLE.COM ,Analytics License,software,1,"$1,299.00","$1,299.00"
+ORD-1002,08/02/2026,  ALICE   GREEN  ,ALICE@EXAMPLE.COM,Setup Session,services,2,$150.00,$300.00
+ORD-1003,"Aug 03, 2026",bob lake,bob@example.com,USB Hub,accessories,3,$25.00,$75.00
+ORD-1001,2026-08-01,John Smith,john@example.com,Analytics License,Software,1,1299,1299
+ORD-1004,2026-08-04,cora reed,,Monthly Plan,,1,49.00,49.00
+ORD-1005,2026-08-05,dana west,dana@example.com,Adapter,Accessories,-1,20,20
+ORD-1006,2026-08-06,erin snow,erin@example.com,Cable,Accessories,2,10,not-a-number
+ORD-1007,2026-08-07,finn dale,finn@example.com,,Services,1,200,200
